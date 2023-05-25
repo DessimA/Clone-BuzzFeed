@@ -1,0 +1,54 @@
+{
+  "title": "Qual é o seu time preferido? Grand Chase, Jin ou Lire?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual personagem do Grand Chase você escolheria?",
+      "options": [
+        { "id": 1, "name": "Elesis", "alias": "A" },
+        { "id": 2, "name": "Lire", "alias": "B" },
+        { "id": 3, "name": "Arme", "alias": "A" },
+        { "id": 4, "name": "Ronan", "alias": "B" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Qual habilidade você considera mais interessante no Grand Chase?",
+      "options": [
+        { "id": 1, "name": "Ataques corpo a corpo", "alias": "A" },
+        { "id": 2, "name": "Ataques à distância", "alias": "B" },
+        { "id": 3, "name": "Magias", "alias": "A" },
+        { "id": 4, "name": "Habilidades de suporte", "alias": "B" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual é o seu estilo de jogo preferido no Grand Chase?",
+      "options": [
+        { "id": 1, "name": "Agressivo e ofensivo", "alias": "A" },
+        { "id": 2, "name": "Tático e estratégico", "alias": "B" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual é a sua personalidade no contexto do Grand Chase?",
+      "options": [
+        { "id": 1, "name": "Determinado e destemido", "alias": "A" },
+        { "id": 2, "name": "Calmo e ponderado", "alias": "B" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual é o seu apelido de jogador no Grand Chase?",
+      "options": [
+        { "id": 1, "name": "O Destemido", "alias": "A" },
+        { "id": 2, "name": "O Estrategista", "alias": "B" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você muito provavelmente é fã do time Grand Chase!",
+    "B": "Você muito provavelmente é fã do time Jin!",
+    "C": "Você muito provavelmente é fã do time Lire!"
+  }
+}
